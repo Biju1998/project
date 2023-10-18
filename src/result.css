@@ -1,0 +1,24 @@
+.result-box{
+      border: 1px dotted rgb(4, 0, 15);
+      width: 400px;
+      margin: 50px auto;
+}
+.result-box>div{
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+.result-box button{
+    background-color: rgb(60, 60, 250);
+    border: none;
+}
+.result-box button:hover{
+    background-color: rgb(24, 24, 250);
+}
+span{
+    color:green;
+}
+b{
+    color:grey;
+}

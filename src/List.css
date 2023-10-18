@@ -1,0 +1,37 @@
+.container{
+    border:1px solid black;
+    width: 400px;
+    margin: 50px auto;
+}
+.container-box{
+    padding: 15px;
+}
+label{
+    font-size: 20px;
+    
+}
+select{
+    padding: 5px;
+    width: 100%;
+}
+button{
+    padding: 5px;
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+    background-color: green;
+    border: none;
+    border-radius: 3px ;
+    color: white;
+    font-size: 16px;
+
+
+}
+button:hover{
+    cursor: pointer;
+    background-color:rgb(7, 169, 7) ;
+}
+h2{
+   text-align: center;
+   text-decoration: underline;
+}
